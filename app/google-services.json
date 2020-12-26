@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150410833211",
+    "project_id": "cunix-live",
+    "storage_bucket": "cunix-live.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150410833211:android:0cf03bc4b0b08afd529b1e",
+        "android_client_info": {
+          "package_name": "com.live.cunix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150410833211-hlde6n220beho44ou0nt5n5ufde3qt88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ5K38-QcPfyzmiTDTpKjmuQFBBAvYVp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150410833211-hlde6n220beho44ou0nt5n5ufde3qt88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
