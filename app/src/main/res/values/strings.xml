@@ -1,34 +1,34 @@
 <resources>
     <string name="app_name">Cunix</string>
-    <string name="app_version">1.0</string>
+    <string name="app_version">1.1</string>
     <string name="app_year">2021</string>
-    <string name="app_copyright">datingnet.me</string>
-    <string name="app_email">raccoonsquare@gmail.com</string>
-    <string name="app_site">https://datingnet.me</string>
+    <string name="app_copyright">Cunix.live</string>
+    <string name="app_email">cunixltd@gmail.com</string>
+    <string name="app_site">https://cunix.live</string>
 
     <!-- Facebook App Id -->
 
-    <string name="facebook_app_id" translatable="false">45363456345634563456</string>
+    <string name="facebook_app_id" translatable="false">444859510255261</string>
 
     <!-- fb + Facebook App Id, example (you facebook app id: 123456): fb123456 -->
 
-    <string name="fb_login_protocol_scheme" translatable="false">fb45363456345634563456</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb444859510255261</string>
 
     <!-- AdMob Banner Id -->
 
     <!-- DEFAULT Ad UNIT ID: ca-app-pub-3940256099942544/6300978111 -->
 
-    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-9936274085476084/4031796505</string>
 
     <!-- AdMob App Id -->
 
     <!-- DEFAULT Admob APP ID: ca-app-pub-3940256099942544~3347511713 -->
 
-    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-9936274085476084~6829366146</string>
 
     <!-- DEFAULT Rewarded Ad ID: ca-app-pub-3940256099942544/5224354917 -->
 
-    <string name="rewarded_ad_unit_id" translatable="false">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="rewarded_ad_unit_id" translatable="false">ca-app-pub-9936274085476084/5344878178</string>
 
     <string name="action_login">Log in</string>
     <string name="action_signup">Sign up</string>
@@ -499,9 +499,9 @@
     <!-- added for version 1.5 -->
 
     <string name="action_buy_sms">Buy Credits with SMS</string>
-    <string name="action_buy_iap1_google_pay">Buy 30 Credits ($1) using Google</string>
-    <string name="action_buy_iap2_google_pay">Buy 70 Credits ($2) using Google </string>
-    <string name="action_buy_iap3_google_pay">Buy 120 Credits ($3) using Google</string>
+    <string name="action_buy_iap1_google_pay">Buy 3000 Credits ($10) using Google</string>
+    <string name="action_buy_iap2_google_pay">Buy 7000 Credits ($20) using Google </string>
+    <string name="action_buy_iap3_google_pay">Buy 12000 Credits ($30) using Google</string>
 
     <string name="settings_account_allow_messages_gcm" translatable="false">allow_messages_gcm</string>
 
@@ -786,8 +786,8 @@
     <string name="title_activity_liked">I Liked</string>
 
     <string name="nav_people_nearby">Nearby</string>
-    <string name="nav_media_stream">Stream</string>
-    <string name="nav_media_feed">Feed</string>
+    <string name="nav_media_stream">Social</string>
+    <string name="nav_media_feed">Activity</string>
     <string name="nav_menu">Settings</string>
 
     <string name="label_photo_privacy">Show in Media Stream</string>

@@ -15,21 +15,21 @@ public interface Constants {
 
     Boolean EMOJI_KEYBOARD = true; // false = Do not display your own Emoji keyboard | true = allow display your own Emoji keyboard
 
-    Boolean FACEBOOK_AUTHORIZATION = false; // false = Do not show buttons Login/Signup with Facebook | true = allow display buttons Login/Signup with Facebook
+    Boolean FACEBOOK_AUTHORIZATION = true; // false = Do not show buttons Login/Signup with Facebook | true = allow display buttons Login/Signup with Facebook
 
     Boolean WEB_SITE_AVAILABLE = true; // false = Do not show menu items (Open in browser, Copy profile link) in profile page | true = show menu items (Open in browser, Copy profile link) in profile page
 
-    Boolean GOOGLE_PAY_TEST_BUTTON = true; // false = Do not show google pay test button in section upgrades
+    Boolean GOOGLE_PAY_TEST_BUTTON = false; // false = Do not show google pay test button in section upgrades
 
     int VIDEO_FILE_MAX_SIZE = 7340035; //Max size for video file in bytes | For example 5mb = 5*1024*1024
 
-    String WEB_SITE = "https://date.hostranger.in/";  //web site url address
+    String WEB_SITE = "https://cunix.live/";  //web site url address
 
     String APP_TEMP_FOLDER = "chat"; //directory for temporary storage of images from the camera
 
     // Google Pay settings | Settings from In-App Purchasing for Android | See documentation
 
-    String BILLING_KEY = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA06dhoysip7K1wzb55CSUoDK7x9TtzCVj2fqX1XdQUYUH";
+    String BILLING_KEY = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp+LmLwbvBXl2z7IrMiBx2cFipZFYQ36pkITY9qHe7aYTtBsIClIGA2qKRgHVFW78S1B6Ja/U2iQnDQC9o5NtyfTMS8TcCso2XrkDcTSV68sbCGJpCxtk+SXIeYsqzVOTOnvl5wqHy7zb5BNGvCs/kfzJcXc3zvkh4Za4yKJFgdzUU+WhBV4TDejbmxt6PnOSCAVSQo6hF8YrRCs/QHKAS1KkWwnaZqyQIQFa/rddeB3SJY0m2l746b4urAOobXMSNCOVxxihNkQ1U3Aqjr0PiDFypU2pDSPWx27RxDLKPO+G8iiBvda4JUr6uESBhsYcRhF81Kjxahn2ABDohXpQLQIDAQAB";
 
     // Client ID For identify the application | Must be the same with CLIENT_ID from server config: db.inc.php
 
@@ -39,7 +39,7 @@ public interface Constants {
 
     String CLIENT_SECRET = "wFt4*KBoNN_kjSdG13m1k3k=";    // Example: "wFt4*KBoNN_kjSdG13m1k3k="
 
-    String API_DOMAIN = "https://date.hostranger.in/";  // url address to which the application sends requests | with back slash "/" at the end | example: https://mysite.com/ | for emulator on localhost: http://10.0.2.2/
+    String API_DOMAIN = "https://cunix.live/";  // url address to which the application sends requests | with back slash "/" at the end | example: https://mysite.com/ | for emulator on localhost: http://10.0.2.2/
 
     String API_FILE_EXTENSION = "";                 // Don`t change value for this constant!
     String API_VERSION = "v2";                      // Don`t change value for this constant!

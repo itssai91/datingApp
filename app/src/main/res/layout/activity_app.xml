@@ -16,8 +16,7 @@
         android:layout_height="164dp"
         android:layout_marginTop="92dp"
         android:layout_centerHorizontal="true"
-        android:tint="@color/white"
-        app:srcCompat="@drawable/ic_main_logo" />
+        app:srcCompat="@drawable/main_logo" />
 
     <ProgressBar
         android:id="@+id/progressBar"
